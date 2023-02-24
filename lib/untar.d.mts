@@ -1,1 +1,1 @@
-export { untar } from "./untar.js";
+export * from "./untar.js";
