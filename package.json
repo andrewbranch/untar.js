@@ -1,22 +1,22 @@
 {
 	"name": "@andrewbranch/untar.js",
-	"version": "0.3.0",
+	"version": "1.0.0",
 	"description": "untar salvaged from bitjs",
 	"main": "lib/untar.js",
-  "types": "lib/untar.d.ts",
-  "exports": {
-    ".": {
-      "import": "./lib/untar.mjs",
-      "default": "./lib/untar.js"
-    },
-    "./package.json": "./package.json"
-  },
-  "files": [
-    "lib",
-    "LICENSE",
-    "README.md"
-  ],
-  "publishConfig": {
-    "access": "public"
-  }
+	"types": "lib/untar.d.ts",
+	"exports": {
+		".": {
+			"import": "./lib/untar.mjs",
+			"default": "./lib/untar.js"
+		},
+		"./package.json": "./package.json"
+	},
+	"files": [
+		"lib",
+		"LICENSE",
+		"README.md"
+	],
+	"publishConfig": {
+		"access": "public"
+	}
 }
