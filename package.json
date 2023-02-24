@@ -1,6 +1,6 @@
 {
 	"name": "@andrewbranch/untar.js",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "untar salvaged from bitjs",
 	"main": "lib/untar.js",
 	"types": "lib/untar.d.ts",
